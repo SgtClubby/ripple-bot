@@ -48,7 +48,7 @@ client.on('message', message => {
                 //send the embed
                 const embed = {
                     embed: {
-                    color: 6329542,
+                    color: "#ff66aa",
                     author: {
                         name: `Ripple! Standard profile for ${username}`,
                         icon_url: `https://osu.ppy.sh/images/flags/${country}.png`,
