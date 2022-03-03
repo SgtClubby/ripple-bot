@@ -4,6 +4,8 @@ const apikey = require("./config.json").apikey
 const token = require("./config.json").token
 const Discord = require("discord.js")
 
+// this is a comment added from web editor 
+
 const client = new Discord.Client();
 client.login(token);
 
